@@ -1,0 +1,3 @@
+[submodule "example-neural-network-som-document"]
+	path = document
+	url = https://github.com/joyhuang-note/example-neural-network-som-document.git
